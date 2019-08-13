@@ -1,0 +1,1 @@
+**Never quit without Terminate**
