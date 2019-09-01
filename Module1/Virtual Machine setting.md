@@ -1,5 +1,7 @@
 * Setting up with the Linux/Windows virtual machine 
-##Steps##
+
+## Steps ##
+
 * Launch new instance 
 * Create a new Key Pair or use existing 
 * Connect and launch the machine 
